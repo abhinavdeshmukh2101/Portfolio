@@ -1,9 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import styled from "styled-components";
 import Typed from "typed.js";
-import ReactPlayer from "react-player";
 
-import Stars from "../assets/video/stars.mp4";
 import programmer from "../assets/Images/programmer.svg";
 
 function Home() {
