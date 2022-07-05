@@ -1,0 +1,14 @@
+.Nav {
+  position: fixed;
+  top: 0;
+  display: flex;
+  height: 4rem;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.NavHide {
+  top: -4rem;
+}
